@@ -1,5 +1,5 @@
 # RAID-SIMULATION
-This project is about the data storage virtualization technology that  combines multiple physical disk drive components into one or more  logical units for the purposes of data redundancy, performance  improvement, or both. Technically, we were tasked to simulate  RAID levels 1 to 6 in its basic process. This project is written in Java  in which it utilizes the JavaFx as the GUI library used in this project.  This is in completion to the subject IT 155N – Introduction to  Operating Systems. 
+This project is a UI simulation of the data storage virtualization technology that combines multiple physical disk drive components into one or more logical units for the purposes of data redundancy, performance improvement, or both. Specifically, it simulates  RAID levels 1 to 6 in its basic process. This is written in Java  and utilizes the JavaFx as the GUI library.
 
 ## Preview of the GUI of the RAID Applet
 ![](images/raid-gui-preview.jpg)
